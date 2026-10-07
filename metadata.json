@@ -1,0 +1,6 @@
+{
+  "name": "Ujiji Lodge - Sumbawanga",
+  "description": "Comfortable accommodation at an affordable price in Sumbawanga, Kasema Street. Rooms from TSh 25,000 per night with Free Wi-Fi and Secure Parking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
